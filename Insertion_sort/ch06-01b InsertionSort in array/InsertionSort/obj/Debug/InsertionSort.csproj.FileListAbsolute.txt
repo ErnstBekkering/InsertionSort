@@ -1,0 +1,51 @@
+C:\Users\Ernst\AppData\Local\Temporary Projects\InsertionSort\bin\Debug\InsertionSort.exe.config
+C:\Users\Ernst\AppData\Local\Temporary Projects\InsertionSort\obj\Debug\InsertionSort.csprojResolveAssemblyReference.cache
+C:\Users\Ernst\AppData\Local\Temporary Projects\InsertionSort\bin\Debug\InsertionSort.exe
+C:\Users\Ernst\AppData\Local\Temporary Projects\InsertionSort\bin\Debug\InsertionSort.pdb
+C:\Users\Ernst\AppData\Local\Temporary Projects\InsertionSort\obj\Debug\InsertionSort.exe
+C:\Users\Ernst\AppData\Local\Temporary Projects\InsertionSort\obj\Debug\InsertionSort.pdb
+C:\Users\Ernst\OneDrive\BlackBoard\CS_3403_Data_Structures\UDEMY\InsertionSort\InsertionSort\bin\Debug\InsertionSort.exe.config
+C:\Users\Ernst\OneDrive\BlackBoard\CS_3403_Data_Structures\UDEMY\InsertionSort\InsertionSort\obj\Debug\InsertionSort.exe
+C:\Users\Ernst\OneDrive\BlackBoard\CS_3403_Data_Structures\UDEMY\InsertionSort\InsertionSort\obj\Debug\InsertionSort.pdb
+C:\Users\Ernst\OneDrive\BlackBoard\CS_3403_Data_Structures\PPT_instructor\Chapter06 - sorting\105 InsertionSort\InsertionSort\bin\Debug\InsertionSort.exe.config
+C:\Users\Ernst\OneDrive\BlackBoard\CS_3403_Data_Structures\PPT_instructor\Chapter06 - sorting\105 InsertionSort\InsertionSort\obj\Debug\InsertionSort.exe
+C:\Users\Ernst\OneDrive\BlackBoard\CS_3403_Data_Structures\PPT_instructor\Chapter06 - sorting\105 InsertionSort\InsertionSort\obj\Debug\InsertionSort.pdb
+C:\Users\Ernst\OneDrive\BlackBoard\CS_3403_Data_Structures\PPT_instructor\Chapter06 - sorting\0701b InsertionSort in array\InsertionSort\bin\Debug\InsertionSort.exe.config
+C:\Users\Ernst\OneDrive\BlackBoard\CS_3403_Data_Structures\PPT_instructor\Chapter06 - sorting\0701b InsertionSort in array\InsertionSort\obj\Debug\InsertionSort.exe
+C:\Users\Ernst\OneDrive\BlackBoard\CS_3403_Data_Structures\PPT_instructor\Chapter06 - sorting\0701b InsertionSort in array\InsertionSort\obj\Debug\InsertionSort.pdb
+C:\Users\Ernst\OneDrive\BlackBoard\CS_3403_Data_Structures\PPT_instructor\Chapter06 - sorting\0701b InsertionSort in array\InsertionSort\bin\Debug\InsertionSort.exe
+C:\Users\Ernst\OneDrive\BlackBoard\CS_3403_Data_Structures\PPT_instructor\Chapter06 - sorting\0701b InsertionSort in array\InsertionSort\bin\Debug\InsertionSort.pdb
+C:\Users\Ernst\OneDrive\BlackBoard\CS_3403_Data_Structures\PPT_instructor\Chapter06 - sorting\0701b InsertionSort in array\InsertionSort\obj\Debug\InsertionSort.csprojResolveAssemblyReference.cache
+C:\Users\Ernst\OneDrive\BlackBoard\CS_3403_Data_Structures\PPT_instructor\Chapter06 - sorting\0701b InsertionSort practice\InsertionSort\bin\Debug\InsertionSort.exe.config
+C:\Users\Ernst\OneDrive\BlackBoard\CS_3403_Data_Structures\PPT_instructor\Chapter06 - sorting\0701b InsertionSort practice\InsertionSort\obj\Debug\InsertionSort.exe
+C:\Users\Ernst\OneDrive\BlackBoard\CS_3403_Data_Structures\PPT_instructor\Chapter06 - sorting\0701b InsertionSort practice\InsertionSort\obj\Debug\InsertionSort.pdb
+C:\Users\Ernst\OneDrive\BlackBoard\CS_3403_Data_Structures\PPT_instructor\Chapter06 - sorting\0701b InsertionSort practice\InsertionSort\bin\Debug\InsertionSort.exe
+C:\Users\Ernst\OneDrive\BlackBoard\CS_3403_Data_Structures\PPT_instructor\Chapter06 - sorting\0701b InsertionSort practice\InsertionSort\bin\Debug\InsertionSort.pdb
+C:\Users\Ernst\OneDrive\BlackBoard\CS_3403_Data_Structures\PPT_instructor\Chapter06 - sorting\0701b InsertionSort practice\InsertionSort\obj\Debug\InsertionSort.csprojResolveAssemblyReference.cache
+C:\Users\ernst\OneDrive\BlackBoard\CS_3403_Data_Structures\PPT_instructor\Chapter06 - sorting\ch06-01c InsertionSort practice\InsertionSort\bin\Debug\InsertionSort.exe.config
+C:\Users\ernst\OneDrive\BlackBoard\CS_3403_Data_Structures\PPT_instructor\Chapter06 - sorting\ch06-01c InsertionSort practice\InsertionSort\obj\Debug\InsertionSort.exe
+C:\Users\ernst\OneDrive\BlackBoard\CS_3403_Data_Structures\PPT_instructor\Chapter06 - sorting\ch06-01c InsertionSort practice\InsertionSort\obj\Debug\InsertionSort.pdb
+C:\Users\ernst\OneDrive\BlackBoard\CS_3403_Data_Structures\PPT_instructor\Chapter06 - sorting\ch06-01c InsertionSort practice\InsertionSort\obj\Debug\InsertionSort.csprojResolveAssemblyReference.cache
+C:\Users\ernst\OneDrive\BlackBoard\CS_3403_Data_Structures\PPT_instructor\Chapter06 - sorting\ch06-01c InsertionSort practice\InsertionSort\bin\Debug\InsertionSort.exe
+C:\Users\ernst\OneDrive\BlackBoard\CS_3403_Data_Structures\PPT_instructor\Chapter06 - sorting\ch06-01c InsertionSort practice\InsertionSort\bin\Debug\InsertionSort.pdb
+C:\Users\Ernst\OneDrive\BlackBoard\CS_3403_Data_Structures\PPT_instructor\Chapter06 - sorting\ch06-01b InsertionSort in array\InsertionSort\bin\Debug\InsertionSort.exe.config
+C:\Users\Ernst\OneDrive\BlackBoard\CS_3403_Data_Structures\PPT_instructor\Chapter06 - sorting\ch06-01b InsertionSort in array\InsertionSort\obj\Debug\InsertionSort.exe
+C:\Users\Ernst\OneDrive\BlackBoard\CS_3403_Data_Structures\PPT_instructor\Chapter06 - sorting\ch06-01b InsertionSort in array\InsertionSort\obj\Debug\InsertionSort.pdb
+C:\Users\Ernst\OneDrive\BlackBoard\CS_3403_Data_Structures\PPT_instructor\Chapter06 - sorting\ch06-01b InsertionSort in array\InsertionSort\bin\Debug\InsertionSort.exe
+C:\Users\Ernst\OneDrive\BlackBoard\CS_3403_Data_Structures\PPT_instructor\Chapter06 - sorting\ch06-01b InsertionSort in array\InsertionSort\bin\Debug\InsertionSort.pdb
+H:\OneDrive\BlackBoard\CS_3403_Data_Structures\PPT_instructor\Chapter06 - sorting\ch06-01b InsertionSort in array\InsertionSort\bin\Debug\InsertionSort.exe.config
+H:\OneDrive\BlackBoard\CS_3403_Data_Structures\PPT_instructor\Chapter06 - sorting\ch06-01b InsertionSort in array\InsertionSort\bin\Debug\InsertionSort.exe
+H:\OneDrive\BlackBoard\CS_3403_Data_Structures\PPT_instructor\Chapter06 - sorting\ch06-01b InsertionSort in array\InsertionSort\bin\Debug\InsertionSort.pdb
+H:\OneDrive\BlackBoard\CS_3403_Data_Structures\PPT_instructor\Chapter06 - sorting\ch06-01b InsertionSort in array\InsertionSort\obj\Debug\InsertionSort.csprojAssemblyReference.cache
+H:\OneDrive\BlackBoard\CS_3403_Data_Structures\PPT_instructor\Chapter06 - sorting\ch06-01b InsertionSort in array\InsertionSort\obj\Debug\InsertionSort.csproj.CoreCompileInputs.cache
+H:\OneDrive\BlackBoard\CS_3403_Data_Structures\PPT_instructor\Chapter06 - sorting\ch06-01b InsertionSort in array\InsertionSort\obj\Debug\InsertionSort.exe
+H:\OneDrive\BlackBoard\CS_3403_Data_Structures\PPT_instructor\Chapter06 - sorting\ch06-01b InsertionSort in array\InsertionSort\obj\Debug\InsertionSort.pdb
+D:\OneDrive\BlackBoard\CS_3403_Data_Structures\PPT_instructor\Chapter06 - sorting\ch06-01b InsertionSort in array\InsertionSort\bin\Debug\InsertionSort.exe.config
+D:\OneDrive\BlackBoard\CS_3403_Data_Structures\PPT_instructor\Chapter06 - sorting\ch06-01b InsertionSort in array\InsertionSort\bin\Debug\InsertionSort.exe
+D:\OneDrive\BlackBoard\CS_3403_Data_Structures\PPT_instructor\Chapter06 - sorting\ch06-01b InsertionSort in array\InsertionSort\bin\Debug\InsertionSort.pdb
+D:\OneDrive\BlackBoard\CS_3403_Data_Structures\PPT_instructor\Chapter06 - sorting\ch06-01b InsertionSort in array\InsertionSort\obj\Debug\InsertionSort.csprojAssemblyReference.cache
+D:\OneDrive\BlackBoard\CS_3403_Data_Structures\PPT_instructor\Chapter06 - sorting\ch06-01b InsertionSort in array\InsertionSort\obj\Debug\InsertionSort.csproj.CoreCompileInputs.cache
+D:\OneDrive\BlackBoard\CS_3403_Data_Structures\PPT_instructor\Chapter06 - sorting\ch06-01b InsertionSort in array\InsertionSort\obj\Debug\InsertionSort.exe
+D:\OneDrive\BlackBoard\CS_3403_Data_Structures\PPT_instructor\Chapter06 - sorting\ch06-01b InsertionSort in array\InsertionSort\obj\Debug\InsertionSort.pdb
+C:\Users\ernst\OneDrive\BlackBoard\CS_3403_Data_Structures\PPT_instructor\Chapter06 - sorting\ch06-01b InsertionSort in array\InsertionSort\obj\Debug\InsertionSort.csproj.CoreCompileInputs.cache
+C:\Users\ernst\OneDrive\BlackBoard\CS_3403_Data_Structures\PPT_instructor\Chapter06 - sorting\ch06-01b InsertionSort in array\InsertionSort\obj\Debug\InsertionSort.csproj.AssemblyReference.cache
